@@ -1,0 +1,7 @@
+I’m Abdalrahman Sherif, a UAE-based Software Engineer, born and raised here, with a B.Sc. in Computer Science through a dual-degree program with AASTMT and the University of Northampton.
+
+My strongest area is building practical, user-centered web applications. I have worked on large-scale enterprise systems using React, TypeScript, Node.js, Python, APIs, authentication, dashboards, and workflow automation. A key project was TBMS v3.0 at Trojan Holding, an enterprise platform supporting 50,000+ employees across many departments and UAE projects. I led frontend UI architecture and UI/UX implementation, while also building internal automation tools and a UAE ICP-compliant visa-image validation system using Python and OpenCV.
+
+I enjoy turning unclear business requirements into simple, usable tools for both technical and non-technical users. I care about clean interfaces, ownership, practical problem-solving, and delivering work that has real operational impact. I have also freelanced for global clients and earned Top 1% recognition on Studypool.
+
+I am ambitious, thoughtful, and actively developing toward strong full-stack, automation, and AI-enabled product engineering roles. I value direct but supportive feedback, practical advice, and communication that feels natural rather than overly corporate or robotic.
